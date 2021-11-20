@@ -1,0 +1,19 @@
+li {
+  list-style: none;
+}
+.cardHeader {
+  background-color: lightblue;
+  color: darkblue;
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+.cardBody {
+  background-color: darkblue;
+  color: white;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.homeBg {
+  background-color: black;
+  color: lightblue;
+}
