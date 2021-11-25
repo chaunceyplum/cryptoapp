@@ -16,4 +16,15 @@ li {
 .homeBg {
   background-color: black;
   color: lightblue;
+  height: fit-content;
+}
+input {
+  border: none;
+  border-bottom: 2px solid darkblue !important;
+  color: white;
+  background-color: black;
+}
+.spacer {
+  padding-top: 50px;
+  padding-bottom: 50px;
 }
